@@ -25,6 +25,7 @@ public class Customcomparatorr {
             }
         });
         System.out.println(aList);
+        
     }
     
 }
