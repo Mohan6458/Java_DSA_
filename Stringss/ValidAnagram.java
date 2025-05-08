@@ -21,6 +21,8 @@ import java.util.Arrays;
         String str2 = "TEGERNI";
         boolean result = ValidAnagram.anagramStrings(str1, str2);
         System.out.println(result ? "True" : "False");
+
+        
     }
 }
 
